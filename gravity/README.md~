@@ -1,0 +1,11 @@
+Steps to compile the project:
+
+In colorines file:
+
+javac gravedad/dibujador.java gravedad/energia.java gravedad/estrella.java gravedad/nave.java gravedad/planetas.java gravedad/principal.java
+
+To execute the game:
+
+java gravedad/principal
+
+It seems to be some problems in the detection of colisions between the line the player paints, and the falling squares. Trying to fix it out. 
