@@ -1,0 +1,11 @@
+Steps to compile the project:
+
+In colorines file:
+
+javac bacterias/bacterias.java bacterias/closisionJB.java bacterias/dibujador.java bacterias/jugador.java bacterias/pantalla.java
+
+To execute the game:
+
+java bacterias/pantalla
+
+It seems to be some problems in the detection of colisions between the line the player paints, and the falling squares. Trying to fix it out. 
