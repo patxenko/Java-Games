@@ -1,6 +1,6 @@
 A compilation of eight different java games.
 
-bacteria: You can eat other blue bacteria, but you can be eaten by red ones.
+bacteria: You can eat other blue bacteria and be eaten by red ones.
 
 colorines: You must draw a line of the same colour as the falling squares to delete them.
 
